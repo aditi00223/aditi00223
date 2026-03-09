@@ -6,7 +6,7 @@
 
 ## Skills
 - Java
-- C++
+- python
 - Data Structures
 - SQL
 - Git
@@ -15,3 +15,4 @@
 - Advanced DSA
 - System Design
 - Backend Development
+- Frontend Development

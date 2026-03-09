@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi, I'm Aditi 👋
 
-<!--
-**aditi00223/aditi00223** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Java Developer  
+📚 DSA Enthusiast  
+🚀 Hackathon Participant  
 
-Here are some ideas to get you started:
+## Skills
+- Java
+- C++
+- Data Structures
+- SQL
+- Git
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Currently Learning
+- Advanced DSA
+- System Design
+- Backend Development

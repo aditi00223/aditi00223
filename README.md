@@ -74,11 +74,7 @@
 
 ---
 
-# 🐍 Contribution Snake
 
-![snake gif](https://github.com/aditi00223/aditi00223/blob/output/github-contribution-grid-snake.svg)
-
----
 
 # ⭐ Profile Views
 

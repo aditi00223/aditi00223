@@ -1,16 +1,19 @@
-#<h1 align="center">Hi 👋, I'm Aditi Sharma</h1>
+<h1 align="center">Hi 👋, I'm Aditi Sharma</h1>
 <h3 align="center">Passionate CSE Student | DSA Enthusiast | Future Software Engineer</h3>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=aditi00223&label=Profile+Views&color=blueviolet&style=flat" />
+</p>
 
 ---
 
-## 👩‍💻 About Me
+## 🧑 About Me
 
-- 🎓 B.Tech CSE Student  
-- 💻 Love solving **DSA problems**  
-- 🚀 Currently learning **Full Stack Development**  
-  
+- 🎓 B.Tech CSE Student
+- 💙 Love solving **DSA problems**
+- 🚀 Currently learning **Full Stack Development**
 
-💡 *Code hard, learn daily, build things that matter.*
+> 💡 *Code hard, learn daily, build things that matter.*
 
 ---
 
@@ -41,7 +44,7 @@
 # 🛠 Tech Stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=c,cpp,java,python,html,css,git,github,vscode"/>
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,html,css,git,github,vscode" />
 </p>
 
 ---
@@ -49,19 +52,17 @@
 # 🚀 Active Projects
 
 | Project | Description | Status |
-|-------|-------------|--------|
-| Horizon | AI Resume Builder + ATS Checker | 🔨 Building |
+|---------|-------------|--------|
+| **Horizon** | AI Resume Builder + ATS Checker | 🔨 Building |
 
 ---
 
 # 📊 GitHub Stats
 
 <p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=aditi00223&show_icons=true&theme=tokyonight"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aditi00223&layout=compact&theme=tokyonight"/>
-
+  <img src="https://github-readme-stats.vercel.app/api?username=aditi00223&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170"/>
+  &nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aditi00223&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
 </p>
 
 ---
@@ -69,16 +70,16 @@
 # 🔥 GitHub Streak
 
 <p align="center">
-<img src="https://streak-stats.demolab.com/?user=aditi00223&theme=tokyonight"/>
+  <img src="https://streak-stats.demolab.com?user=aditi00223&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
+# 🏆 GitHub Trophies
 
-
-# ⭐ Profile Views
-
-![](https://komarev.com/ghpvc/?username=aditi00223&color=blue)
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=aditi00223&theme=tokyonight&no-frame=true&row=1&column=6" />
+</p>
 
 ---
 

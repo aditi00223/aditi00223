@@ -7,7 +7,7 @@
 
 ---
 
-## 🧑 About Me
+##  About Me
 
 - 🎓 B.Tech CSE Student
 - 💙 Love solving **DSA problems**
@@ -55,15 +55,7 @@
 |---------|-------------|--------|
 | **Horizon** | AI Resume Builder + ATS Checker | 🔨 Building |
 
----
 
-# 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aditi00223&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170"/>
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aditi00223&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
-</p>
 
 ---
 
@@ -73,13 +65,6 @@
   <img src="https://streak-stats.demolab.com?user=aditi00223&theme=tokyonight&hide_border=true" />
 </p>
 
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=aditi00223&theme=tokyonight&no-frame=true&row=1&column=6" />
-</p>
 
 ---
 

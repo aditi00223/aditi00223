@@ -71,3 +71,5 @@
 # ⚡ Fun Fact
 
 💡 I love solving **algorithmic problems and building real-world projects.**
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=aditi00223&theme=tokyo-night&hide_border=true)](https://github.com/aditi00223)

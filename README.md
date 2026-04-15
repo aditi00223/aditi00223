@@ -63,6 +63,10 @@
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=aditi00223&theme=tokyonight&hide_border=true" />
+
+  # Add this as a GitHub Action: .github/workflows/snake.yml
+# Then use this in README:
+![snake](https://github.com/aditi00223/aditi00223/blob/output/github-contribution-grid-snake.gif)
 </p>
 
 

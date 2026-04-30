@@ -54,6 +54,7 @@
 | Project | Description | Status |
 |---------|-------------|--------|
 | **Horizon** | AI Resume Builder + ATS Checker | 🔨 Building |
+| **KisanConnect | Direct Marketplace for farmers and buyers | Building |
 
 
 

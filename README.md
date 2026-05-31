@@ -70,7 +70,7 @@
 
 ---
 
-# ⚡ Fact.
+# ⚡ Fact..
 
 💡 I love solving **algorithmic problems and building real-world projects.**
 

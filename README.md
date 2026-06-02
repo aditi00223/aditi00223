@@ -49,7 +49,7 @@
 
 ---
 
-# 🚀 Active Projects..
+# 🚀 Active Projects...
 
 | Project | Description | Status |
 |---------|-------------|--------|

@@ -41,7 +41,7 @@
 
 ---
 
-# 🛠 Tech Stack..
+# 🛠 Tech Stack...
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=c,cpp,java,python,html,css,git,github,vscode" />

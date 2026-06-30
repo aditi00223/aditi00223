@@ -60,7 +60,7 @@
 
 ---
 
-# 🔥 GitHub Streak...
+# 🔥 GitHub Streak..
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=aditi00223&theme=tokyonight&hide_border=true" />

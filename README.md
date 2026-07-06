@@ -1,72 +1,93 @@
-<h1 align="center">Hi , I'm Aditi Sharma</h1>
-<h3 align="center">Passionate CSE Student | DSA Enthusiast | Future Software Engineer</h3>
+<div align="center">
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=aditi00223&label=Profile+Views&color=blueviolet&style=flat" />
-</p>
+# Hi there, I'm Aditi Sharma 👋
 
----
+### 🎓 CSE Undergrad &nbsp;|&nbsp; 💻 DSA Enthusiast &nbsp;|&nbsp; 🚀 Future Software Engineer
 
-##  About Me....
+![Profile Views](https://komarev.com/ghpvc/?username=aditi00223&label=Profile+Views&color=8e44ad&style=for-the-badge)
 
-- 🎓 B.Tech CSE Student
-- 💙 Love solving **DSA problems**
-- 🚀 Currently learning **Full Stack Development**
+</div>
 
-> 💡 *Code hard, learn daily, build things that matter.*
+<br>
 
---
+## 🧠 About Me
 
-# 🔗 Connect With Me....
+```yaml
+name: Aditi Sharma
+role: B.Tech CSE Student
+focus: Data Structures & Algorithms
+learning: Full Stack Development
+motto: "Code hard, learn daily, build things that matter."
+```
 
-<p align="center">
+<br>
 
-<a href="https://github.com/aditi00223">
-<img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github"/>
-</a>
+## 🔗 Connect With Me
 
-<a href="https://leetcode.com/aditisharma0322">
-<img src="https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode"/>
-</a>
+<div align="center">
 
-<a href="https://www.hackerrank.com/aditisharma03201">
-<img src="https://img.shields.io/badge/HackerRank-Profile-green?style=for-the-badge&logo=hackerrank"/>
-</a>
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aditi00223)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/aditisharma0322)
+[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/aditisharma03201)
+[![GeeksforGeeks](https://img.shields.io/badge/GfG-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/user/aditishart207)
 
-<a href="https://www.geeksforgeeks.org/user/aditishart207">
-<img src="https://img.shields.io/badge/GFG-Profile-darkgreen?style=for-the-badge"/>
-</a>
+</div>
 
-</p>
+<br>
 
----
+## 🛠️ Tech Stack
 
-# 🛠 Tech Stack.....
+<div align="center">
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,html,css,git,github,vscode" />
-</p>
+![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
 
----
+</div>
 
-# 🚀 Active Projects....
+<br>
 
-| Project | Description | Status |
-|---------|-------------|--------|
-| **Horizon** | AI Resume Builder + ATS Checker |  Building |
-| **KisanConnect** | Direct Marketplace for farmers and buyers | Building |
+## 🚀 Active Projects
 
+<table align="center">
+  <tr>
+    <th>Project</th>
+    <th>Description</th>
+    <th>Status</th>
+  </tr>
+  <tr>
+    <td><b>🧾 Horizon</b></td>
+    <td>AI Resume Builder + ATS Checker</td>
+    <td>🟡 Building</td>
+  </tr>
+  <tr>
+    <td><b>🌾 KisanConnect</b></td>
+    <td>Direct marketplace connecting farmers and buyers</td>
+    <td>🟡 Building</td>
+  </tr>
+</table>
 
+<br>
 
----
+## 📊 GitHub Stats & Streak
 
-# 🔥 GitHub Streak..
+<div align="center">
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=aditi00223&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api?username=aditi00223&show_icons=true&theme=tokyonight&hide_border=true" width="49%" />
+<img src="https://streak-stats.demolab.com?user=aditi00223&theme=tokyonight&hide_border=true" width="49%" />
 
-</p>
+</div>
 
+<br>
 
----
+<div align="center">
 
+### 💭 "Consistency beats intensity — one problem a day adds up."
+
+</div>

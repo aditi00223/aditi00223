@@ -35,7 +35,7 @@ motto: "Code hard, learn daily, build things that matter."
 
 <br>
 
-## 🛠️ Tech Stack
+## 🛠️ Tech Stack.
 
 <div align="center">
 

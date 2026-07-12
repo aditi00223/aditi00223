@@ -53,7 +53,7 @@ motto: "Code hard, learn daily, build things that matter."
 
 <br>
 
-## 🚀 Active Projects
+## 🚀 Active Projects.
 
 <table align="center">
   <tr>

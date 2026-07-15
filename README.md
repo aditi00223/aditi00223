@@ -75,7 +75,7 @@ motto: "Code hard, learn daily, build things that matter."
 
 <br>
 
-## 📊 GitHub Stats & Streak.
+## 📊 GitHub Stats & Streak..
 
 <div align="center">
 

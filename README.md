@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi there, I'm Aditi Sharma 👋
+# Hi there, I'm Aditi Sharma 
 
 ### 🎓 CSE Undergrad &nbsp;|&nbsp; 💻 DSA Enthusiast &nbsp;|&nbsp; 🚀 Future Software Engineer
 

@@ -10,7 +10,7 @@
 
 <br>
 
-## 🧠 About Me..
+## 🧠 About Me
 
 ```yaml
 name: Aditi Sharma
@@ -22,7 +22,7 @@ motto: "Code hard, learn daily, build things that matter."
 
 <br>
 
-## 🔗 Connect With Me.
+## 🔗 Connect With Me
 
 <div align="center">
 
@@ -35,7 +35,7 @@ motto: "Code hard, learn daily, build things that matter."
 
 <br>
 
-## 🛠️ Tech Stack..
+## 🛠️ Tech Stack
 
 <div align="center">
 
@@ -53,7 +53,7 @@ motto: "Code hard, learn daily, build things that matter."
 
 <br>
 
-## 🚀 Active Projects..
+## 🚀 Active Projects
 
 <table align="center">
   <tr>

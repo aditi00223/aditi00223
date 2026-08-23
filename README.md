@@ -22,7 +22,7 @@ motto: "Code hard, learn daily, build things that matter."
 
 <br>
 
-## 🔗 Connect With Me
+## 🔗 Connect With Me.
 
 <div align="center">
 
